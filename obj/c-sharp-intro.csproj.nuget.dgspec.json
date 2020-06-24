@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\18705\\pROJECTS\\c-sharp-intro\\c-sharp-intro.csproj": {}
+    "C:\\Users\\18705\\Projects\\c-sharp-intro\\c-sharp-intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\18705\\pROJECTS\\c-sharp-intro\\c-sharp-intro.csproj": {
+    "C:\\Users\\18705\\Projects\\c-sharp-intro\\c-sharp-intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\18705\\pROJECTS\\c-sharp-intro\\c-sharp-intro.csproj",
+        "projectUniqueName": "C:\\Users\\18705\\Projects\\c-sharp-intro\\c-sharp-intro.csproj",
         "projectName": "c-sharp-intro",
-        "projectPath": "C:\\Users\\18705\\pROJECTS\\c-sharp-intro\\c-sharp-intro.csproj",
+        "projectPath": "C:\\Users\\18705\\Projects\\c-sharp-intro\\c-sharp-intro.csproj",
         "packagesPath": "C:\\Users\\18705\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\18705\\pROJECTS\\c-sharp-intro\\obj\\",
+        "outputPath": "C:\\Users\\18705\\Projects\\c-sharp-intro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
